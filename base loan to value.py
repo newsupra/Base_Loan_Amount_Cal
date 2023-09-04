@@ -2,7 +2,7 @@ print('''
     Calculate Base Loan amount for FHA refinance loans
     ==================================================
     ''')
-
+#use a payoff statement from previous loan to obtian information
 print('''Calculate maximum loan amount. Please enter numbers instead of characters for accurate results''')
 restart = "y"
 def base_model(): 
